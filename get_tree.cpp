@@ -39,11 +39,11 @@ void print_tree(const path& target_path, int depth = 0){
 
     if (exists(parent_dir) && is_directory(parent_dir)){
 
-        for (auto& nig : directory_iterator(parent_dir)){
-            if (nig.path().filename() == ".git"){
+        for (auto& big : directory_iterator(parent_dir)){
+            if (big.path().filename() == ".git"){
                 continue;
             }
-            items.push_back(nig);
+            items.push_back(big);
         }
 
     }
