@@ -2,7 +2,7 @@
 
 ---
 
-Simple way to visualise your project directory, binary file and exe available for Linux and Windows users. Just add the respective binary or exe file depending on which OS you are on.
+Simple way to visualise your project directory, binary file and exe available for Linux and Windows users. Just add the respective binary or exe file into your project directory depending on which OS you are on.
 ```bash
 //Linux
 ./get_tree
