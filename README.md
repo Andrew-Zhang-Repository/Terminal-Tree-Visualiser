@@ -13,4 +13,4 @@ Simple way to visualise your project directory, binary file and exe available fo
 
 ---
 # Example
-<img width="421" height="763" alt="Image" src="https://github.com/user-attachments/assets5ec42b2a-1093-41ef-87e0-1bd916cfd6b8" >
+<img width="421" height="763" alt="Image" src="https://github.com/user-attachments/assets/94d8236b-7a30-4fa8-b9ab-74c706dae571" />
